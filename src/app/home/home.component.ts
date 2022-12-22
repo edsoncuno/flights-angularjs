@@ -41,6 +41,9 @@ export class HomeComponent implements OnInit {
     this.noFlightsFound = false;
     const origin = this.selectedOrigin;
     const destination = this.selectedDestination;
+    if (origin == "" || destination == "") {
+      return;
+    }
     this.flightsService.getFlightsQuery(origin, destination).subscribe((flights) => {
       this.flights = flights;
       if (flights.length === 0) {

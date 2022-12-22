@@ -56,8 +56,10 @@
     border-radius: 5px;
 
     .flightTable {
-        font-size: 0.5em;
 
+        /*
+        font-size: 0.5em;
+        */
         @media screen and (max-width: 719px) {
             input {
                 max-width: 50px
