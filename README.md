@@ -1,27 +1,20 @@
-# TSFlightsApp
+# flights-angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+Esta es la version del fronted con angular para la aplicacion "Flights"
 
-## Development server
+[![flights01.jpg](https://i.postimg.cc/XJfnYWTW/flights01.jpg)](https://postimg.cc/MMpC9C63)
+[![flights02.jpg](https://i.postimg.cc/1XMn4wLy/flights02.jpg)](https://postimg.cc/6425m2WP)
+[![flights03.jpg](https://i.postimg.cc/NFLY7XKs/flights03.jpg)](https://postimg.cc/Zvk1JCP2)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Prueba del software.
 
-## Code scaffolding
+Para poder ver el proyecto se necesita realizar la instalación de las dependencias.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```sh
+npm install
+```
+Luego ejecutar el servidor de desarrollo.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```sh
+npm run start
+```
