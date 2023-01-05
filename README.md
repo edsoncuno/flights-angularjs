@@ -7,9 +7,19 @@ Esta es la version del fronted con angular para la aplicacion "Flights"
 [![flights02.jpg](https://i.postimg.cc/1XMn4wLy/flights02.jpg)](https://postimg.cc/6425m2WP)
 [![flights03.jpg](https://i.postimg.cc/NFLY7XKs/flights03.jpg)](https://postimg.cc/Zvk1JCP2)
 
+## Pre-requisitos
+
+Tener instalado Node.js
+
+https://nodejs.org/en/download/
+
+Usar el backend
+
+https://github.com/edsoncuno/flights-nestjs
+
 ## Prueba del software.
 
-Para poder ver el proyecto se necesita realizar la instalación de las dependencias.
+Para poder probar el proyecto se necesita realizar la instalación de las dependencias.
 
 ```sh
 npm install
